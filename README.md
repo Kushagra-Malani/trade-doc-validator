@@ -1,4 +1,4 @@
-# Trade Document Validator — Nova POC
+# Trade Document Validator - Nova POC
 
 Multi-agent trade document validation pipeline for GoComet's Nova platform.
 Three AI agents work in sequence to extract, validate, and route trade documents.
@@ -62,7 +62,7 @@ npm run dev
 
 1. Open http://localhost:5173
 2. Upload a trade document (PDF, PNG, or JPG)
-3. Select a customer (default: CUSTOMER_001 — Acme Global Trading Ltd.)
+3. Select a customer (default: CUSTOMER_001 - Acme Global Trading Ltd.)
 4. Click "Run Pipeline"
 5. View results: extraction → validation → routing decision
 6. Query stored data using natural language
